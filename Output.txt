@@ -1,0 +1,113 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE 2.app/Contents/lib/idea_rt.jar=58681:/Applications/IntelliJ IDEA CE 2.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/corinnejabba1/Desktop/AP Comp Sci/Cyclone'd/out/production/Cyclone'd" Main
+R = 6371.0 km
+------------------------------------------------------------------------
+The point 1 coordinate in degrees is (48.8567, 2.3508)
+The point 2 coordinate in degrees is (37.783333, -122.41667)
+The point 1 coordinate in radians is (0.8527102766591136, 0.041029200055882696)
+The point 2 coordinate in radians is (0.6594435632274267, -2.136573950827367)
+a= 0.4176
+c= 1.4052
+The distance traveled on Day ?= 8952.399604455231 km
+------------------------------------------------------------------------
+The distance from Paris to San Francisco is 8952.4 km
+------------------------------------------------------------------------
+The point 1 coordinate in degrees is (25.0, 15.0)
+The point 2 coordinate in degrees is (23.0, 20.0)
+The point 1 coordinate in radians is (0.4363323129985824, 0.2617993877991494)
+The point 2 coordinate in radians is (0.4014257279586958, 0.3490658503988659)
+a= 0.0019
+c= 0.0870
+The distance traveled on Day 1= 554.3996803543225 km
+------------------------------------------------------------------------
+The point 1 coordinate in degrees is (23.0, 20.0)
+The point 2 coordinate in degrees is (21.0, 24.0)
+The point 1 coordinate in radians is (0.4014257279586958, 0.3490658503988659)
+The point 2 coordinate in radians is (0.3665191429188092, 0.4188790204786391)
+a= 0.0014
+c= 0.0735
+The distance traveled on Day 2= 468.49700815412336 km
+------------------------------------------------------------------------
+The point 1 coordinate in degrees is (21.0, 24.0)
+The point 2 coordinate in degrees is (20.0, 27.0)
+The point 1 coordinate in radians is (0.3665191429188092, 0.4188790204786391)
+The point 2 coordinate in radians is (0.3490658503988659, 0.47123889803846897)
+a= 0.0007
+c= 0.0521
+The distance traveled on Day 3= 331.64597163485803 km
+------------------------------------------------------------------------
+The point 1 coordinate in degrees is (20.0, 27.0)
+The point 2 coordinate in degrees is (19.0, 35.0)
+The point 1 coordinate in radians is (0.3490658503988659, 0.47123889803846897)
+The point 2 coordinate in radians is (0.33161255787892263, 0.6108652381980153)
+a= 0.0044
+c= 0.1328
+The distance traveled on Day 4= 845.7861488546149 km
+------------------------------------------------------------------------
+The point 1 coordinate in degrees is (19.0, 35.0)
+The point 2 coordinate in degrees is (21.0, 46.0)
+The point 1 coordinate in radians is (0.33161255787892263, 0.6108652381980153)
+The point 2 coordinate in radians is (0.3665191429188092, 0.8028514559173916)
+a= 0.0084
+c= 0.1837
+The distance traveled on Day 5= 1170.4131281488244 km
+------------------------------------------------------------------------
+The point 1 coordinate in degrees is (21.0, 46.0)
+The point 2 coordinate in degrees is (23.0, 56.0)
+The point 1 coordinate in radians is (0.3665191429188092, 0.8028514559173916)
+The point 2 coordinate in radians is (0.4014257279586958, 0.9773843811168246)
+a= 0.0068
+c= 0.1655
+The distance traveled on Day 6= 1054.4379707737055 km
+------------------------------------------------------------------------
+The point 1 coordinate in degrees is (23.0, 56.0)
+The point 2 coordinate in degrees is (25.0, 65.0)
+The point 1 coordinate in radians is (0.4014257279586958, 0.9773843811168246)
+The point 2 coordinate in radians is (0.4363323129985824, 1.1344640137963142)
+a= 0.0054
+c= 0.1476
+The distance traveled on Day 7= 940.6709507348903 km
+------------------------------------------------------------------------
+The point 1 coordinate in degrees is (25.0, 65.0)
+The point 2 coordinate in degrees is (28.0, 70.0)
+The point 1 coordinate in radians is (0.4363323129985824, 1.1344640137963142)
+The point 2 coordinate in radians is (0.4886921905584123, 1.2217304763960306)
+a= 0.0022
+c= 0.0940
+The distance traveled on Day 8= 598.9286227146907 km
+------------------------------------------------------------------------
+The point 1 coordinate in degrees is (28.0, 70.0)
+The point 2 coordinate in degrees is (32.0, 73.0)
+The point 1 coordinate in radians is (0.4886921905584123, 1.2217304763960306)
+The point 2 coordinate in radians is (0.5585053606381855, 1.2740903539558606)
+a= 0.0017
+c= 0.0832
+The distance traveled on Day 9= 530.2975666412293 km
+------------------------------------------------------------------------
+The point 1 coordinate in degrees is (32.0, 73.0)
+The point 2 coordinate in degrees is (34.0, 74.0)
+The point 1 coordinate in radians is (0.5585053606381855, 1.2740903539558606)
+The point 2 coordinate in radians is (0.5934119456780721, 1.2915436464758039)
+a= 0.0004
+c= 0.0379
+The distance traveled on Day 10= 241.14693884556328 km
+------------------------------------------------------------------------
+The point 1 coordinate in degrees is (34.0, 74.0)
+The point 2 coordinate in degrees is (36.0, 74.0)
+The point 1 coordinate in radians is (0.5934119456780721, 1.2915436464758039)
+The point 2 coordinate in radians is (0.6283185307179586, 1.2915436464758039)
+a= 0.0003
+c= 0.0349
+The distance traveled on Day 11= 222.38985328911707 km
+------------------------------------------------------------------------
+The point 1 coordinate in degrees is (36.0, 74.0)
+The point 2 coordinate in degrees is (39.0, 74.0)
+The point 1 coordinate in radians is (0.6283185307179586, 1.2915436464758039)
+The point 2 coordinate in radians is (0.6806784082777885, 1.2915436464758039)
+a= 0.0007
+c= 0.0524
+The distance traveled on Day 12= 333.5847799336759 km
+------------------------------------------------------------------------
+The total distance traveled by Hurricane Gloria= 7292.1986 km
+------------------------------------------------------------------------
+
+Process finished with exit code 0
